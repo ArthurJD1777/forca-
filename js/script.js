@@ -1,6 +1,6 @@
-const animais = ["gato", "rato", "macaco", "leopardo", "golfinho"]
+const personagens = ["chucky", "jason", "ghostface","pearl", "maxinne", "leatherface", "anabelle"]
 const palavraOculta =
-  animais[Math.floor(Math.random() * animais.length)];
+  personagens[Math.floor(Math.random() * personagens.length)];
 const letrasErradas = [];
 const letrasCorretas = [];
 

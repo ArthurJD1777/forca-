@@ -5,9 +5,9 @@ body {
     width: 100vw;
     height: 100vh;
     overflow: hidden;
-    background-color: #191125;
-    color: rgb(250, 233, 185);
-    font-family: "Roboto", sans-serif;
+    background-image: url(../img/foto2.jpg);
+    color: rgb(55, 143, 131);
+    font-family: "Monaco", monospace;
   }
   
   .jogo-container {
