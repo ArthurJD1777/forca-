@@ -289,6 +289,8 @@ function reiniciarForca() {
 
 ## Diagrama 
 
+![Captura de tela 2023-11-14 102824](https://github.com/ArthurJD1777/forca-/assets/128982469/34d52ecf-a843-4239-bd10-31c71265120d)
+
 
 ## Link Vídeo Do Jogo
 
