@@ -292,3 +292,5 @@ function reiniciarForca() {
 
 ## Vídeo Do Jogo
 
+![7f3c2d1d-3f54-4a47-8b5c-4b42ca83654e](https://github.com/ArthurJD1777/forca-/assets/128982469/6f3612c0-d778-43d6-aa53-b94611809f9e)
+
