@@ -290,7 +290,9 @@ function reiniciarForca() {
 ## Diagrama 
 
 
-## Vídeo Do Jogo
+## Link Vídeo Do Jogo
+
+https://drive.google.com/drive/folders/1WR9uJfaqqcYdgK48X4thiBtcOdZsX8lf?usp=sharing
 
 ![7f3c2d1d-3f54-4a47-8b5c-4b42ca83654e](https://github.com/ArthurJD1777/forca-/assets/128982469/6f3612c0-d778-43d6-aa53-b94611809f9e)
 
