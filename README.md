@@ -84,7 +84,7 @@ Aqui está brevemente o código que usamos em HTML para o jogo
 </html> 
 
 `
-
+* HTML para botões,avisar usuário e mostrar Palavras repetidas, erradas e corretas,avisar para o usuário digitar e criar o site.
 
 ```
 * CSS 
@@ -182,6 +182,10 @@ body {
     font-size: 16px;
   } 
 
+* CSS para plano de fundo
+* Cor nas fontes e na força
+* Tamanho de fontes, plano de fundo e forca
+
 ```
 * Javascript 
 Ferramenta principal para funcionamento do nosso código
@@ -278,6 +282,10 @@ function reiniciarForca() {
   window.location.reload();
 }
 ``` 
+* Java para mostrar mensagem
+* Ocultar a palavra 
+* Colocar palavra corretas na palavra secreta
+* Mostrar mensagem se perdeu ou ganhou
 
 ## Diagrama 
 
